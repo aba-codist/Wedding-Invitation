@@ -7,7 +7,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title> Samira & Jahid | Wedding Invitation</title
+<title> Samira & Jahid | Wedding Invitation</title>
 
 <!-- NORMAL MODERN FONT -->
 
@@ -1047,7 +1047,7 @@ footer{
 
 
         <h1>
-            AYAAN <br> & <br> ZARA
+            SAMIRA <br> & <br> JAHID
         </h1>
 
 
@@ -1154,7 +1154,7 @@ footer{
 
 
             <h2>
-                Ayaan
+                Jahid
             </h2>
 
 
@@ -1207,7 +1207,7 @@ footer{
 
 
             <h2>
-                SAMIRA
+                Samira
             </h2>
 
 
@@ -1518,7 +1518,7 @@ footer{
 
         <a href="#" class="rsvp-btn">
 
-            RSVP WITH LOVE 💌
+            Click For Home 💌
 
         </a>
 
@@ -1535,7 +1535,7 @@ footer{
 
 <footer>
 
-    Made With ❤️ For Ayaan & Zara
+    Made With ❤️ For Samira & Jahid
 
     <br><br>
 
