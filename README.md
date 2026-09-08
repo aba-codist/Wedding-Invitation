@@ -7,7 +7,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Ayaan & Zara | Wedding Invitation</title>
+<title> Samira & Jahid | Wedding Invitation</title>
 
 <!-- NORMAL MODERN FONT -->
 
